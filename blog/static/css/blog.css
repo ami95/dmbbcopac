@@ -1,12 +1,5 @@
-h1 a, h2 a {
-    color: #5F9EA0;
-    font-family: 'Segoe Print';
-}
-body {
-    padding-left: 15px;
-}
 .page-header {
-    background-color: #5F9EA0;
+    background-color: #C25100;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
